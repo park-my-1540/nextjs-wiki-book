@@ -34,3 +34,15 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+tree HEAD:
+
+.eslintrc.json
+.gitignore
+README.md
+app/
+next.config.js
+package-lock.json
+package.json
+public/
+tsconfig.json
